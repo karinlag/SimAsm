@@ -20,6 +20,7 @@ class Genome():
         self.scaffoldN50 = scaffoldN50
         self.contigN50 = contigN50
 
+
     def _mutate(self):
         pass()
 
