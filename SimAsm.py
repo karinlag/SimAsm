@@ -26,7 +26,6 @@ class Genome():
     def _scaffoldize(self):
         self._breakGenome(self.scaffoldN50)
 
-
     def _contigize(self):
         pass
 
