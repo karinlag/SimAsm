@@ -21,6 +21,7 @@ class Genome():
         self.contigN50 = contigN50
 
 
+
     def _mutate(self):
         pass()
 

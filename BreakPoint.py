@@ -22,6 +22,7 @@ class FibbonachiBreak():
                 yield cur
 
 
+
     def generate(self, startNumber, endNumber):
         return [x for x in self._subFib(startNumber, endNumber)]
 

@@ -18,6 +18,7 @@ def calculateN50(listOfNumbers):
 
 
 
+
 if __name__ == "__main__":
     testlist = [10,20,30,40,50]
     assert calculateN50(testlist) == 40
